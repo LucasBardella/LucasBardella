@@ -6,7 +6,7 @@
 
 ##
 <a href="https://github.com/LucasBardella/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBardella" />
 </a>
 <a href="https://github.com/LucasBardella/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardella&layout=donut" />
